@@ -4,7 +4,7 @@ Projeto Java Android do artigo [Library Retrofit 2 no Android](https://www.thien
 
 Artigo que discute em detalhes a biblioteca Retrofit 2.
 
-Está que é a biblioteca Android mais popular na comunidade de desenvolvedores de app para conexão remota, conexão com um backend Web, por exemplo.
+Está que é a biblioteca Android mais popular na comunidade de desenvolvedores de app para conexão remota. Conexão com um backend Web, por exemplo.
 
 <img src="https://www.thiengo.com.br/img/post/facebook/650-366/j6gtesfg8fhf0k75kd28kv90700942b2c61cee629148c4d479f62ac434.png" width="450" alt="Library Retrofit 2 no Android">
 
