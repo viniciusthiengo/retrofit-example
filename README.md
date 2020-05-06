@@ -12,7 +12,7 @@ Está que é a biblioteca Android mais popular na comunidade de desenvolvedores 
 
 O projeto Android deste repositório faz parte de um projeto maior que inclui também um lado Web.
 
-E esse lado Web deve ser desenvolvido antes mesmo do que o aplicativo Android, como apresentado no vídeo do artigo.
+E esse lado Web deve ser desenvolvido antes mesmo do que o aplicativo Android, como apresentado no [vídeo do artigo](https://www.thiengo.com.br/library-retrofit-2-no-android).
 
 Essa parte Web você pode estar acessando [neste trecho deste repositório](https://github.com/viniciusthiengo/retrofit-example/tree/master/retrofit-example).
 
